@@ -4,7 +4,7 @@
 
 ### Project Objectives
 1. 🔍 Create comprehensive [Customer Performance Report](https://github.com/HrishikeshInsights/Excel-Sales-Analytics-/blob/main/Customer%20Performance%20Report.pdf)
-2. 📈 Develop detailed [Market Performance vs Target Analysis](https://github.com/HrishikeshInsights/Excel-Sales-Analysis/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+2. 📈 Develop detailed [Market Performance vs Target Analysis](https://github.com/HrishikeshInsights/Excel-Sales-Analytics-/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
 ### Why Sales Analytics?
 - **Monitor & Evaluate**: Leverage data-driven insights to track sales activities and performance metrics
