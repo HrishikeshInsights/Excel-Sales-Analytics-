@@ -20,7 +20,7 @@
 1. Generate detailed P&L Reports by:
    - [Fiscal Year](https://github.com/HrishikeshInsights/Excel-Sales-Analytics-/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
    - [Months](https://github.com/HrishikeshInsights/Excel-Sales-Analytics-/blob/main/P%26L%20Statement%20by%20Months.pdf)
-   - [Markets](https://github.com/HrishikeshInsights/Excel-Sales-Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+   - [Markets](https://github.com/HrishikeshInsights/Excel-Sales-Analytics-/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 ### Why Finance Analytics?
 - **Performance Evaluation**: Deep dive into financial metrics and benchmarking
